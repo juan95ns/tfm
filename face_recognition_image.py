@@ -1,5 +1,5 @@
 # Ejecución:
-# python face_recognition_image.py --encodings encodings/encodings.pickle --image input_images/example_01.png 
+# python face_recognition_image.py --encodings encodings/encodings.pickle --image input_images/ex1.png 
 
 # Imports
 from cv2 import cv2
