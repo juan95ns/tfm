@@ -50,7 +50,7 @@ def process_faces(args, image_paths):
         # Poner los vectores resultantes y los nombres en la lista definitiva
         for encoding in encodings:
             encoding_list.append(encoding)
-            name_list.append(encoding)
+            name_list.append(name)
 
         print("Imagen {}/{}.".format(iteration + 1, image_count))
 
