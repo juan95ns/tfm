@@ -1,5 +1,5 @@
 # Ejecución:
-# python face_encoding.py --dataset dataset --encodings encondings/encodings.pickle
+# python face_encoding.py --dataset dataset --encodings encodings/encodings.pickle
 
 # Imports
 from imutils import paths

@@ -54,6 +54,7 @@ def detect_faces(args, pickle_encodings, image, rgb):
 
         names.append(name)
 
+    print("[Paso 4] Resultado final")
     write_faces(image, faces, names)
 
 
