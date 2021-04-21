@@ -71,3 +71,4 @@ def write_faces(image, faces, names):
 
 if __name__ == "__main__":
     run()
+    
